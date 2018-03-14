@@ -1,0 +1,1 @@
+cmd_/home/gavriel/azeem/summercodes/hello_proc/hello_proc.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/gavriel/azeem/summercodes/hello_proc/hello_proc.ko /home/gavriel/azeem/summercodes/hello_proc/hello_proc.o /home/gavriel/azeem/summercodes/hello_proc/hello_proc.mod.o
